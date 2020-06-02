@@ -1,0 +1,13 @@
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\obj\Debug\netcoreapp3.1\ConsoleApp433.csprojAssemblyReference.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\obj\Debug\netcoreapp3.1\ConsoleApp433.AssemblyInfoInputs.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\obj\Debug\netcoreapp3.1\ConsoleApp433.AssemblyInfo.cs
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\bin\Debug\netcoreapp3.1\ConsoleApp433.exe
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\bin\Debug\netcoreapp3.1\ConsoleApp433.deps.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\bin\Debug\netcoreapp3.1\ConsoleApp433.runtimeconfig.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\bin\Debug\netcoreapp3.1\ConsoleApp433.runtimeconfig.dev.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\bin\Debug\netcoreapp3.1\ConsoleApp433.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\bin\Debug\netcoreapp3.1\ConsoleApp433.pdb
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\obj\Debug\netcoreapp3.1\ConsoleApp433.csproj.CopyComplete
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\obj\Debug\netcoreapp3.1\ConsoleApp433.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp433\ConsoleApp433\obj\Debug\netcoreapp3.1\ConsoleApp433.pdb
